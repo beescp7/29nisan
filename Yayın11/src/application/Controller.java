@@ -18,7 +18,7 @@ public class Controller {
 	 PreparedStatement sorguIfadesi=null;
 	 ResultSet getirilen=null;
 	 String sql;
-	
+	//merhaba
     @FXML
     private TextField txt_user;
 
